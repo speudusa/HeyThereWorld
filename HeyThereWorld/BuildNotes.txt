@@ -1,0 +1,10 @@
+﻿Chapter 9
+- 9.2: Need to update the user interface page.
+    - need to update version
+    - Focus less on screen shots
+    - also, mac project creations is not well represented
+    - able to follow along
+
+Chapter 10
+- 10.1 = great
+- 10.2 = 
